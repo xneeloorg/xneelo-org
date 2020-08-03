@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Xneelo Non Profit
+title: Olive Non Profit
 email: eshaam@hey.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Founded in 2020, Xneelo Org provides free access to Cloud and AI resources
+  Founded in 2020, Olive Org provides free access to Cloud and AI resources
   to support the developing of new and significantly improved goods and services
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
